@@ -39,3 +39,15 @@ _site/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# pyc #
+######################
+*.pyc
+
+# vscode #
+######################
+/.vscode
+
+# venv #
+######################
+venv/
