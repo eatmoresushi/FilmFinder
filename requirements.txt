@@ -4,4 +4,6 @@ django-crispy-forms
 django-allauth
 sklearn
 pandas
+gunicorn
+django-on-heroku
 
